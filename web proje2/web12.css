@@ -1,0 +1,164 @@
+
+.ustorta {
+    height: 24px;
+    width: 809px;
+    margin-left: 500;
+    margin-top: -54px;
+    background-color: black;
+    padding: 13px;
+    margin-left: 500px;
+}
+.anaresım{
+    background-image: url(r15.JPG);
+    height: 600px;
+    width: 1335px;
+    padding-top: 50px;
+}
+  *{margin: 0;    padding: 0;    border: 0;    outline: 0;    list-style:none; text-decoration:none;}
+  .header-menu{
+    margin-top: -44px;
+    margin-left: 550px;
+    width: 782px;
+    height: 40px;
+    float: left;
+    background: black;
+    position: relative;
+    font-family: 'Lobster', cursive;
+}
+  
+  .header-menu a{
+      width:auto;
+      height:35px;
+      float:left;
+      font-size:12px;
+      color:white;
+      padding-left:18px;
+      padding-right:18px;
+      border-right:solid 1px white;
+      line-height:35px;
+      }
+      
+  .header-menu a:hover{
+      background:url(img/cizgi.png) right no-repeat ;
+      }
+  .header-menu  li{
+      width:auto;
+      height:46px;
+      float:left;
+      position:relative;
+      }
+  
+  .header-menu  ul li ul{
+      width:180px;
+      height:auto;
+      float:left;
+      position:absolute;
+      background:#6c6b6b;
+      top:35px;
+      left:1px;
+      z-index:1;
+      display:none;
+      }
+  
+  .header-menu  ul li ul a{
+      width:163px;
+      height:30px;
+      line-height:30px;
+      float:left;
+      padding:0 0 0 17px;
+      border-top: dashed 1px gray;
+      background:none;
+      }
+  
+  .header-menu  ul li ul li {
+      height:30px;
+      line-height:30px;
+      }
+  
+  
+  
+  .header-menu  li:hover >  ul{
+      display: block;
+      }
+  
+  
+  
+  .header-menu  ul li ul li ul{
+      width:180px;
+      height:auto;
+      float:left;
+      position:absolute;
+      background:#6c6b6b;
+      top:0px;
+      left:180px;
+      z-index:1;
+      display:none;
+      }
+      .anaresım{
+        background-image: url(r15.JPG);
+        height: 600px;
+        width: 1335px;
+    }
+    .btn {
+        background-color:red;
+        border: 1px solid white;
+        border-radius:8px;
+        color: wheat;
+        float: left;
+        padding: 16px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 12pt;
+        font-family:Verdana;
+        margin: 4px 2px;
+        transition:all 0.4s;	
+        -webkit-transition:all 0.4s;
+        -moz-transition:all 0.4s;
+          -o-transition:all 0.4s;
+          
+          font-family: 'Courgette', cursive;
+        }
+        .btn:hover{
+        
+        background-color: #da9813;
+        color:white;
+          }
+          .btn1 {
+            background-color:red;
+            border: 1px solid white;
+            border-radius:8px;
+            float: left;
+            color: wheat;
+            padding: 16px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 12pt;
+            font-family:Verdana;
+            margin: 4px 2px;
+            transition:all 0.4s;	
+            -webkit-transition:all 0.4s;
+            -moz-transition:all 0.4s;
+              -o-transition:all 0.4s;
+              
+              font-family: 'Courgette', cursive;
+            }
+            .btn1:hover{
+            
+            background-color: #da9813;
+            color:white;
+              }.kartvizit{
+                  width: 350px;
+                  height: 400px;
+                  background: white;
+                  float: left;
+              }.yasla{
+                
+                float: left;
+            }.ortala {
+                margin: auto;
+                width: 590px;
+                height: 400px;
+                
+            }
